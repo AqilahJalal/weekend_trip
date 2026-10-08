@@ -1,0 +1,6 @@
+{
+  "name": "Weekend Escape Planner",
+  "description": "Plan a short travel weekend in Malaysia with curated stops, estimated expenses, route distances, and shareable invites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
